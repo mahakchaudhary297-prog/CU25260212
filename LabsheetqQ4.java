@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RelationalDemo {
+public class LabsheetqQ4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number: ");
