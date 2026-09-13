@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LeapYearInRange {
+public class Labsheet2Q10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
