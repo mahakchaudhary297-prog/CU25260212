@@ -1,4 +1,4 @@
-public class MaxMinArray {
+public class Labsheet2Q24 {
     public static void main(String[] args) {
         int[] numbers = {34, 12, 89, 5, 67, 91, 23};
 
