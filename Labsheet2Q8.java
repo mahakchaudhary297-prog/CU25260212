@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ValidTriangleAngles {
+public class Labsheet2Q8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
