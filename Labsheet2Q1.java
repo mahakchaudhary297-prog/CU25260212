@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HeronTriangleArea {
+public class Labsheet2Q1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
