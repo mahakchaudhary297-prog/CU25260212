@@ -1,4 +1,4 @@
-public class AverageMarks2D {
+public class Labsheet2Q25 {
     public static void main(String[] args) {
             double[][] studentMarks = {
             {85.5, 90.0, 78.0},
