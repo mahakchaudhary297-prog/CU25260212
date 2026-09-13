@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProfitLoss {
+public class Labsheet1Q27 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Cost Price: ");
