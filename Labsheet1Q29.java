@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HeightClassification {
+public class Labsheet1Q29 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter height in cm: ");
