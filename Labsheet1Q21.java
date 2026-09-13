@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ValidTriangle {
+public class Labsheet1Q21 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter three angles: ");
