@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GradeMeaning {
+public class Labsheet2Q27 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
