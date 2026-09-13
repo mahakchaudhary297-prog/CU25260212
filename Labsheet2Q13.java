@@ -1,4 +1,4 @@
-public class CharacterClassifier {
+public class Labsheet2Q13 {
     public static void main(String[] args) {
         char ch = 'e';
 
