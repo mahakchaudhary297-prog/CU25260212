@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TaxCalculator {
+public class Labsheet1Q16 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter your income: ");
