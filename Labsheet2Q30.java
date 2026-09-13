@@ -1,4 +1,4 @@
-public class MixedAdvanced {
+public class Labsheet2Q30 {
     public static void main(String[] args) {
         int number = 16; 
         boolean isPowerOfFour = (number > 0) && ((number & (number - 1)) == 0) && ((number & 0xAAAAAAAA) == 0);
