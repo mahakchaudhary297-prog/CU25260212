@@ -1,4 +1,4 @@
-public class FibonacciForLoop {
+public class Labsheet2Q18 {
     public static void main(String[] args) {
         int n = 20;
         long first = 0, second = 1;
