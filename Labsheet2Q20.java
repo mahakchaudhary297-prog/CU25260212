@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PasswordCheck {
+public class Labsheet2Q20 {
     public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
 	String password;
