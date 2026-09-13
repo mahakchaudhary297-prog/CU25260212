@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VowelConsonant {
+public class LabsheetQ8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a character: ");
