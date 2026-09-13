@@ -1,4 +1,4 @@
-public class SmallestOfFour {
+public class Labsheet2Q12 {
     public static void main(String[] args) {
         int a = 25, b = 12, c = 48, d = 7;
 
