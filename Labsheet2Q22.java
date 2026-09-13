@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReverseInteger {
+public class Labsheet2Q22 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
