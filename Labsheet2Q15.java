@@ -1,4 +1,4 @@
-public class CountSetBits {
+public class Labsheet2Q15 {
     public static void main(String[] args) {
         int number = 29;
         int temp = number;
