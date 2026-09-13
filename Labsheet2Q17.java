@@ -1,4 +1,4 @@
-public class CyclicRotateLeft {
+public class Labsheet2Q17 {
     public static void main(String[] args) {
         int number = 10; 
         int shift = 2;
