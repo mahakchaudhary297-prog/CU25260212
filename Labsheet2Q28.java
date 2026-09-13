@@ -1,4 +1,4 @@
-public class SkipPerfectSquares {
+public class Labsheet2Q28 {
     public static void main(String[] args) {
         System.out.println("Numbers 1 to 50 (excluding perfect squares):");
 
