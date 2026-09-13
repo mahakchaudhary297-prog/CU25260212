@@ -1,4 +1,4 @@
-public class ShiftOperations {
+public class Labsheet2Q16 {
     public static void main(String[] args) {
         int num = 20;
         int multiplied = num << 3;
