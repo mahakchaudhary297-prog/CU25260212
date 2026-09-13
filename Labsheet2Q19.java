@@ -1,4 +1,4 @@
-public class ArmstrongNumbers {
+public class Labsheet2Q19 {
     public static void main(String[] args) {
         System.out.println("Armstrong numbers between 1 and 1000:");
 
